@@ -7,3 +7,7 @@ Filename: cav-linux_x64.deb
 https://www.virustotal.com/gui/file/325b819b041a7b27026ba85f66ea808d0d11ad39d94bc13ae6d95802413495b6
 SHA256: 325b819b041a7b27026ba85f66ea808d0d11ad39d94bc13ae6d95802413495b6
 
+After the installation:
+Run SUDO update.sh to download the latest definition to your system
+
+To validate if the update is successful, go to More -> About to check the Virus Signature Database version. If it shows 1 or 0 it means error.
