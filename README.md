@@ -11,3 +11,5 @@ After the installation:
 Run SUDO update.sh to download the latest definition to your system
 
 To validate if the update is successful, go to More -> About to check the Virus Signature Database version. If it shows 1 or 0 it means error.
+
+![example-successful-updated](https://user-images.githubusercontent.com/22002692/207219805-f328f93e-d1f5-4cc4-9341-53cd57ee6fbf.png)
